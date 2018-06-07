@@ -1,0 +1,6 @@
+c:\users\vijay.boppana\source\repos\TraineeApp\TraineeApp\bin\TraineeApp.dll.config
+c:\users\vijay.boppana\source\repos\TraineeApp\TraineeApp\bin\TraineeApp.dll
+c:\users\vijay.boppana\source\repos\TraineeApp\TraineeApp\bin\TraineeApp.pdb
+c:\users\vijay.boppana\source\repos\TraineeApp\TraineeApp\obj\Debug\TraineeApp.csproj.CoreCompileInputs.cache
+c:\users\vijay.boppana\source\repos\TraineeApp\TraineeApp\obj\Debug\TraineeApp.dll
+c:\users\vijay.boppana\source\repos\TraineeApp\TraineeApp\obj\Debug\TraineeApp.pdb
